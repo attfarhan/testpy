@@ -1,0 +1,9 @@
+{
+	"package_name": "django",
+	"version": ">0.5.0",
+	"source" : {
+		"name": "pypi",
+		"verify_ssl": "True",
+		"url": "https://pypi.python.org/simple"
+	}
+}

@@ -2,8 +2,8 @@ from math import *
 
 
 def my_func():
-    print(sqrt(4))
-    print('called')
+    print sqrt(4)
+    print 'called'
 
 
 alias = my_func
