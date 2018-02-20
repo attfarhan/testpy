@@ -1,3 +1,8 @@
+[[source]]
+url = 'https://adsf.asdf'
+verify_ssl = true
+name = 'name'
+
 [dev-packages]
 
 "flake8" = ">=3.3.0,<4"
