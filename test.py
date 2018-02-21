@@ -1,7 +1,7 @@
 from math import *
 import eventlet
 import mock
-import flake
+import flake8
 import sphinx
 
 def my_func():
