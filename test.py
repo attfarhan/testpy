@@ -1,16 +1,7 @@
-from math import *
-import eventlet
-import mock
-import flake8
-import sphinx
+from django.urls import path
 
-def my_func():
-    print sqrt(4)
-    print 'called'
+from . import views
 
-
-alias = my_func
-my_list = [1, None, alias]
-inception = my_list[2]
-
-inception()
+urlpatterns = [
+    path('', views.index, name='index'),
+]

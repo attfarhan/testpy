@@ -1,22 +1,3 @@
-[[source]]
-url = 'https://adsf.asdf'
-verify_ssl = true
-name = 'name'
-
-[dev-packages]
-
-"flake8" = ">=3.3.0,<4"
-pytest = "*"
-mock = "*"
-sphinx = "<=1.5.5"
-twine = "*"
-sphinx-click = "*"
-pytest-xdist = "*"
-click = "*"
-
 [packages]
 
-eventlet = "==0.18.2"
-"flake8" = ">=3.3.0,<4"
-mock = "*"
-sphinx = "<=1.5.5"
+django = "==1.8.4"
