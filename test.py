@@ -1,3 +1,3 @@
-from libfarhan.libfarhan import testfunc
+from libfarhan import libfarhan.testfunc
 
-print(testfunc())
+print(libfarhan.testfunc())
