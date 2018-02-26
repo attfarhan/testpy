@@ -1,3 +1,3 @@
-from libfarhan import libfarhan.testfunc
+from libfarhan import libfarhan
 
 print(libfarhan.testfunc())
