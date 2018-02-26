@@ -1,0 +1,45 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3ba5c128db5aa45668341ae8dccc4914a1811ecbeb090e9d00efd1d3eaa51db2"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.4",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "16.7.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64",
+            "python_full_version": "3.6.4",
+            "python_version": "3.6",
+            "sys_platform": "darwin"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django": {
+            "hashes": [
+                "sha256:2376c3d8c5f495b302b112d7232c84761130c430e1840c05a2a02b28f17dd596",
+                "sha256:826996c81e1cc773500124d5c19212e4a7681a55ee169fab9085f2b3015a70d8"
+            ],
+            "version": "==1.8.4"
+        },
+        "libfarhan": {
+            "hashes": [
+                "sha256:e8faaf439f9a07771569ca53e3420f844b374d4d58ba9e27ea2c703ae6c8c841"
+            ],
+            "version": "==0.1"
+        }
+    },
+    "develop": {}
+}
