@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3ba5c128db5aa45668341ae8dccc4914a1811ecbeb090e9d00efd1d3eaa51db2"
+            "sha256": "17954e6b1f46d7b38e22fd1a3bcbb6ebdcaa6575bc0db837a2d510feab1107f4"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -27,18 +27,11 @@
         ]
     },
     "default": {
-        "django": {
-            "hashes": [
-                "sha256:2376c3d8c5f495b302b112d7232c84761130c430e1840c05a2a02b28f17dd596",
-                "sha256:826996c81e1cc773500124d5c19212e4a7681a55ee169fab9085f2b3015a70d8"
-            ],
-            "version": "==1.8.4"
-        },
         "libfarhan": {
             "hashes": [
-                "sha256:e8faaf439f9a07771569ca53e3420f844b374d4d58ba9e27ea2c703ae6c8c841"
+                "sha256:9728b55dccfb5e7cf55867bf1a1f7e0db25297e6b05b72f49d8a4e7926354a2a"
             ],
-            "version": "==0.1"
+            "version": "==0.6"
         }
     },
     "develop": {}
