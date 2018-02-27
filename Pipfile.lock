@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "17954e6b1f46d7b38e22fd1a3bcbb6ebdcaa6575bc0db837a2d510feab1107f4"
+            "sha256": "ede03c3de21dc2c9188a0032215505fe8a6e24434b1bc510be1148553770fd60"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -27,11 +27,11 @@
         ]
     },
     "default": {
-        "libfarhan": {
+        "testfarhan": {
             "hashes": [
-                "sha256:9728b55dccfb5e7cf55867bf1a1f7e0db25297e6b05b72f49d8a4e7926354a2a"
+                "sha256:dc03e1c2e99db639a43ec94b0c9b8460e8914289c51a349a96b209e4bcbbf894"
             ],
-            "version": "==0.6"
+            "version": "==0.1"
         }
     },
     "develop": {}
